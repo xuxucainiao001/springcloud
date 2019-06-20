@@ -6,8 +6,7 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.1.4.RELEASE</version>
-		<relativePath /> <!-- lookup parent from repository -->
+		<version>2.0.2.RELEASE</version>
 	</parent>
 	<groupId>com.pgy.cloud.server</groupId>
 	<artifactId>cloud-server-part</artifactId>
@@ -41,11 +40,8 @@
 
 
 		<dependency>
-			            
 			<groupId>org.springframework.boot</groupId>
-			            
 			<artifactId>spring-boot-starter-web</artifactId>
-			        
 		</dependency>
 	</dependencies>
 
